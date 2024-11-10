@@ -1,3 +1,8 @@
-
+# Ignore files
 *.pdf
 .gitignore
+*.zip
+
+# Ignore all web shortcuts
+*.url
+*.website
