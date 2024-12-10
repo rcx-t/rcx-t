@@ -44,21 +44,27 @@
 </p><hr>
 
 <div style="display: flex;"> 
-<div style="flex: 0 0 80%;"> 
-<p style="font-size: 10px; text-align: left; margin: 0;"> 
-✨ <b>Frequently Used Hardware Components:</b><br>
-⚡ MCU-8bit: PIC18F18K22, PIC18F27K42, PIC18F45K22, PIC18F47Q84, PIC18F57K42,...<br>
-⚡ MCU-32bit: ESP8266, ESP32, LPC1768, ...<br> 
-⚡ SBC: RPI Zero(W), RPI 3B, RPI 4B, RPI 5, Pico<br> 
-⚡ PLC: Siemens S71200, S71500, LOGO8.
-</p>
-</div> 
-<div style="flex: 0 0 20%;"> 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=rcx-t.rcx-t">
-</div> 
+  <div style="flex: 0 0 70%;"> 
+    <p style="font-size: 10px; text-align: left; margin: 0;"> 
+    ✨ <b>Frequently Used Hardware Components:</b><br>
+    ⚡ MCU-8bit: PIC18F18K22, PIC18F27K42, PIC18F45K22, PIC18F47Q84, PIC18F57K42,...<br>
+    ⚡ MCU-32bit: ESP8266, ESP32, LPC1768, ...<br> 
+    ⚡ SBC: RPI Zero(W), RPI 3B, RPI 4B, RPI 5, Pico<br> 
+    ⚡ PLC: Siemens S71200, S71500, LOGO8.    
+    </p>
+  </div> 
+  <div style="flex: 0 0 15%;"> 
+    <div>
+    <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=rcx-t.rcx-t">
+    </div>
+  </div> 
+  <div style="flex: 0 0 15%;"> 
+
+  [My Gists ...](https://gist.github.com/rcx-t)
+
+  </div>
 </div>
-
-
+<br>
 <h3 align="center" style="padding: 0;">
   <a href="https://git.io/typing-svg" style="padding: 0;">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+rcx-t...;Nice+to+meet+you!&center=true&size=16" style="padding: 0;">
