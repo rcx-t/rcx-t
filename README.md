@@ -47,8 +47,8 @@
 <a>
   ✨ <b>Frequently Used Hardware Components:</b><br>
   ⚡ MCU-8bit: PIC18F18K22, PIC18F27K42, PIC18F45K22, PIC18F47Q84, PIC18F57K42,...<br>
-  ⚡ MCU-32bit: ESP8266, ESP32, LPC1768, ...<br> 
-  ⚡ SBC: RPI Zero(W), RPI 3B, RPI 4B, RPI 5, Pico<br> 
+  ⚡ MCU-32bit: ESP8266, ESP32, LPC1768, PIC32CM5164JH01048, ...<br> 
+  ⚡ SBC: RPI Zero(W), RPI 3B, RPI 4B, RPI 5, Pico, ...<br> 
   ⚡ PLC: Siemens S71200, S71500, LOGO8.
 </a>
 <h3 align="center" style="padding: 0;">
